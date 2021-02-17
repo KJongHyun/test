@@ -9,7 +9,7 @@ class AAA(
 
     fun testMethod() {
         println("bbb")
-        common.commonMethod2()
+        common.commonMethod3()
     }
 
 }
