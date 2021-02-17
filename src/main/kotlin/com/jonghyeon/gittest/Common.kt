@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service
 @Service
 class Common {
 
-    fun commonMethod2() {
+    fun commonMethod3() {
         println("aaa")
     }
 
